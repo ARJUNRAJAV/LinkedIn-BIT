@@ -13,18 +13,6 @@
 
 ## How we built it--> Used React.JS for the front-end and Firebase for backend service, storage and authentication and to make the project as much flexible as possible.
 
-## 🌎 Deployed Website:
-https://linkedin-clone-74928.web.app/
-
-##  Built With:
- - React.
- - HTML.
- - CSS.
- - Redux.
- - Styled-Components.
- - Firebase Backend service.
- - Real-time database.
- - Netlify.
 
 ## 🖥️ Features and Fuctionality
 
